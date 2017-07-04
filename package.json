@@ -1,0 +1,17 @@
+{
+  "name": "react-developer-snippets",
+  "version": "0.1.0",
+  "description": "React ES6 snippets for atom",
+  "keywords": [
+    "react",
+    "ES6",
+    "babel",
+    "snippets"
+  ],
+  "repository": "https://github.com/rkotze/react-snippets-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
